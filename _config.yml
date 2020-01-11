@@ -104,8 +104,8 @@ disqus:
 gitalk:
     owner: chnhs
     repo: blog-comments
-    clientID: e1742d16abfaff054985
-    clientSecret: 5e41d73a034bacbfafb84d94591f99ce725152d8
+    clientID: 87119ec75ec32da9260e
+    clientSecret: 0d6363f17d552331fc02278f83325e683938172a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
