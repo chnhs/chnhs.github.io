@@ -1,6 +1,8 @@
 # chnhs
 
 我的个人博客：<https://chnhs.github.io>，欢迎 Star 和 Fork。
+<img src="/images/icon/图片 1.png" width="80%" alt="Personal ICON" align="middle" />
+
 
 ## 概览
 
