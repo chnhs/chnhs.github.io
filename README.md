@@ -32,7 +32,7 @@
 
 ## 致谢
 
-本博客外观基于 [MaZhuang](https://mazhuang.org) 修改，感谢！
+本博客基于 [MaZhuang](https://mazhuang.org) 修改，保留与自己专业相关联文章,感谢**MaZhuang**的辛苦总结！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
