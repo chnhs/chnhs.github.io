@@ -1,6 +1,7 @@
 .home .banner,
 .home .site-header {
     background:url(/assets/images/timg.jpg);
+    background-repeat: no-repeat, repeat;
     color: #fff
 }
 
