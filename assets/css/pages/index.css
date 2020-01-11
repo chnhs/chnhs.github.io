@@ -2,7 +2,7 @@
 .home .site-header {
     background:url(/assets/images/timg.jpg);
     background-repeat: no-repeat, repeat;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .home .banner .collection-head {
