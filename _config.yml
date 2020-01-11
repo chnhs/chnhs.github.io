@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: chnhs.github.io
+url: https://chnhs.github.io
 date_format: "ordinal"
 title: chnhs
 subtitle: "Learn Math, Learn Programming"
